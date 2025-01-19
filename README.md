@@ -8,7 +8,12 @@
 
 Взял инфу отсюда
   https://www.youtube.com/watch?v=Eu5RES729-U
+  В целом видео не очень
 
+
+Как создавать видео 9 x 16 с помощью Avidemux
+
+https://www.youtube.com/watch?v=BZhLxFuxYWY
 
 Идеи:
 1. Писать в начале и в дальнейшем, что за игра
