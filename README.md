@@ -28,5 +28,6 @@ https://www.youtube.com/watch?v=BZhLxFuxYWY
 
 
 ## Примеры от других авторов
+Можно посмотреть, какие теги используют
 1. https://www.youtube.com/shorts/OMbvx5a2GcI
-2. 
+2. https://www.youtube.com/shorts/zj_a2gLOgOk
