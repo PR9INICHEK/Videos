@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=BZhLxFuxYWY
 Можно посмотреть, какие теги используют
 1. https://www.youtube.com/shorts/OMbvx5a2GcI
 2. https://www.youtube.com/shorts/zj_a2gLOgOk
+3. https://www.youtube.com/shorts/zcAfg-QiGzs
+   - Дублирует инфу в описании
+4. 
