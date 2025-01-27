@@ -28,9 +28,10 @@ https://www.youtube.com/watch?v=BZhLxFuxYWY
 
 
 ## Примеры от других авторов
-Можно посмотреть, какие теги используют
+Можно посмотреть, какие теги используют или в целом как делают
 1. https://www.youtube.com/shorts/OMbvx5a2GcI
 2. https://www.youtube.com/shorts/zj_a2gLOgOk
 3. https://www.youtube.com/shorts/zcAfg-QiGzs
    - Дублирует инфу в описании
-4. 
+4. https://www.youtube.com/shorts/wtnsPRZUF5w
+5. 
