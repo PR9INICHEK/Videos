@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=BZhLxFuxYWY
 
 
 ## Примеры от других авторов
+https://www.youtube.com/hashtag/armareforger/shorts
+
 Можно посмотреть, какие теги используют или в целом как делают
 1. https://www.youtube.com/shorts/OMbvx5a2GcI
 2. https://www.youtube.com/shorts/zj_a2gLOgOk
