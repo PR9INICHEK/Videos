@@ -1,4 +1,4 @@
-# Videos
+Выкладывать в Тик Ток
 
 
 ## Youtube Shorts
@@ -37,3 +37,7 @@ https://www.youtube.com/hashtag/armareforger/shorts
    - Дублирует инфу в описании
 4. https://www.youtube.com/shorts/wtnsPRZUF5w
 5. 
+
+
+https://www.youtube.com/watch?v=0SCef9b9_qM&
+Тут в конце расказывают про стримы и Тик Ток
