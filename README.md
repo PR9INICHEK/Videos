@@ -36,7 +36,8 @@ https://www.youtube.com/hashtag/armareforger/shorts
 3. https://www.youtube.com/shorts/zcAfg-QiGzs
    - Дублирует инфу в описании
 4. https://www.youtube.com/shorts/wtnsPRZUF5w
-5. 
+5. https://youtube.com/shorts/A4va6Tl4qgE
+6. 
 
 
 https://www.youtube.com/watch?v=0SCef9b9_qM&
