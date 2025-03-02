@@ -37,7 +37,9 @@ https://www.youtube.com/hashtag/armareforger/shorts
    - Дублирует инфу в описании
 4. https://www.youtube.com/shorts/wtnsPRZUF5w
 5. https://youtube.com/shorts/A4va6Tl4qgE
-6. 
+6. https://youtube.com/shorts/6X0onwyBP44?si=SsOnNS7f9M_dzoee
+  - Эффект приближения, чтобы показывать какой-то участок экрана
+7. 
 
 
 https://www.youtube.com/watch?v=0SCef9b9_qM&
