@@ -14,3 +14,4 @@
 17. "Look, the supplies are already in the back"
 8. "Congratulations, you are amazing! или breathtaking"
 12. "Stay tuned, there will be more interesting and funny videos to come!"
+13. " Well, how am I supposed to get out of here now?"
