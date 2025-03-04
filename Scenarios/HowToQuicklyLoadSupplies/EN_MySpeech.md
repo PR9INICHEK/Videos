@@ -2,17 +2,13 @@
 
 ### Loading(GamePad)
 1. "How to Quickly Load Supplies with a Gamepad"
-2. "First или First of all you need to move very close to this sign"
-4. "Затем открыть инвентарь машины, нажав на кнопку вправо на D-Pad"
-5. 
-6. "И закрыть его, нажав на A, вверх и снова на А"
-7. Нажать снова на А, чтобы подсветилась область у склада
-8. Нажать ещё раз на А, чтобы выбрать склад
-9. Нажать на Y
-10. Передвинуть курсор на машину
-11. Нажать А
+2. "First или First of all you need to move your truck very very close to this sign"
+4. "Then open the car inventory by pressing the D-Pad to the right"
+5. "And close it by pressing A, up and again A button"
+8. "Press A twice in a row to select the supply depot"
+9. "Then press the Y button"
+10. "Move cursor to car and press A"
 12. "Confirm the action by pressing A"
-14. "Подтверждаем действие"
 15. "Just in case, we can visually verify that the supplies are loaded"
 17. "Look, the supplies are already in the back."
 8. "Congratulations, you are amazing! или breathtaking"
