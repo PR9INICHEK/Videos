@@ -3,6 +3,7 @@
 ### Loading(GamePad)
 1. "How to Quickly Load Supplies with a Gamepad"
 2. "First или First of all you need to move your truck very very close to this sign"
+3. "Like this"
 4. "Then open the car inventory by pressing the D-Pad to the right"
 5. "And close it by pressing A, up and again A button"
 8. "Press A twice in a row to select the supply depot"
