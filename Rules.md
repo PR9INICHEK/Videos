@@ -23,3 +23,6 @@
 ## Теги
 1. RoadToPro или Road_to_PRO
 2. 
+
+## Дальнейшее развитие
+1. Можно будет попробовать подать заявку на https://www.lurkit.com/company/arma-reforger-creator-program
