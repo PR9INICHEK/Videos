@@ -8,7 +8,8 @@
 7. Зачем отмечать, на какую базу ты идёшь - https://www.youtube.com/watch?v=VMRyGmaNc_Q
 8. Что можно лечить себя в машине
 9. Про бесплатный ремонт на специальных точках - https://youtu.be/LmvdPhGdRG4?si=fvbbvS-zjO2lTVi3&t=224
-10. 
+10. Рассказать, как просто загружать и выгружать припасы - https://www.youtube.com/watch?v=mN1_vfS_YqY
+11. 
 
 
 
