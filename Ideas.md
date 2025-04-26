@@ -18,3 +18,7 @@
 # Стримы
 1. Показывать кол-во подписчиков в цели на день, как прогресс бар
 2. 
+
+## Вдохновение
+1. https://www.youtube.com/watch?v=dEIylGbEJM0&ab_channel=KrAziGamer
+2. 
