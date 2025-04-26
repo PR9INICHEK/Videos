@@ -21,4 +21,5 @@
 
 ## Вдохновение
 1. https://www.youtube.com/watch?v=dEIylGbEJM0&ab_channel=KrAziGamer
-2. 
+2. https://www.youtube.com/watch?v=Us6YG98niMA
+3. 
