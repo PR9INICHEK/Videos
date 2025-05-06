@@ -39,7 +39,8 @@ https://www.youtube.com/hashtag/armareforger/shorts
 5. https://youtube.com/shorts/A4va6Tl4qgE
 6. https://youtube.com/shorts/6X0onwyBP44?si=SsOnNS7f9M_dzoee
   - Эффект приближения, чтобы показывать какой-то участок экрана
-7. 
+7. https://www.youtube.com/shorts/uAPDDa1GyDw
+
 
 
 https://www.youtube.com/watch?v=0SCef9b9_qM&
