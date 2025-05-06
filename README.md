@@ -25,23 +25,3 @@ https://www.youtube.com/watch?v=BZhLxFuxYWY
 ### Мысли
 1. Надо какой-то инструмент для редактирования видео найти, где есть шаблоны. Их можно легко понять и модифицировать
 2. 
-
-
-## Примеры от других авторов
-https://www.youtube.com/hashtag/armareforger/shorts
-
-Можно посмотреть, какие теги используют или в целом как делают
-1. https://www.youtube.com/shorts/OMbvx5a2GcI
-2. https://www.youtube.com/shorts/zj_a2gLOgOk
-3. https://www.youtube.com/shorts/zcAfg-QiGzs
-   - Дублирует инфу в описании
-4. https://www.youtube.com/shorts/wtnsPRZUF5w
-5. https://youtube.com/shorts/A4va6Tl4qgE
-6. https://youtube.com/shorts/6X0onwyBP44?si=SsOnNS7f9M_dzoee
-  - Эффект приближения, чтобы показывать какой-то участок экрана
-7. https://www.youtube.com/shorts/uAPDDa1GyDw
-
-
-
-https://www.youtube.com/watch?v=0SCef9b9_qM&
-Тут в конце расказывают про стримы и Тик Ток
