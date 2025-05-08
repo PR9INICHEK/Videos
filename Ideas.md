@@ -1,5 +1,5 @@
 # Идеи для видео
-1. Что за режим Конфликт
+1. [Что за режим Конфликт](https://github.com/PR9INICHEK/Videos/blob/main/Scenarios/Conflict/Main.md)
    - Как найти сервера с определённым режимом
 2. Про то, что надо объединятся в группы, чтобы эпичнее бои были
    - Пример - https://youtu.be/xGGKVNBjNqQ?si=BE-XAYii9KEmijok&t=80
