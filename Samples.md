@@ -9,8 +9,11 @@ https://www.youtube.com/hashtag/armareforger/shorts
 4. https://www.youtube.com/shorts/wtnsPRZUF5w
 5. https://youtube.com/shorts/A4va6Tl4qgE
 6. https://youtube.com/shorts/6X0onwyBP44?si=SsOnNS7f9M_dzoee
-  - Эффект приближения, чтобы показывать какой-то участок экрана
+   - Эффект приближения, чтобы показывать какой-то участок экрана
 7. https://www.youtube.com/shorts/uAPDDa1GyDw
+8. https://youtube.com/shorts/Bfgs3CJMJWQ
+   - Классный эффект замедления на доли секунды
+9. 
 
 
 
