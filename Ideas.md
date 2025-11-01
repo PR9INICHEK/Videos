@@ -40,4 +40,5 @@
 2. https://www.youtube.com/watch?v=Us6YG98niMA
 3. https://www.youtube.com/shorts/oNVydsKe_b4
 4. [5 BRAND NEW Tips & Tricks for Arma Reforger 1.5 Update! | Sabre](https://www.youtube.com/watch?v=AEUH5ScYqf0)
-5. 
+5. [How to insert troops with the helicopter](https://www.youtube.com/shorts/DHvSpOwM_U0)
+6. 
