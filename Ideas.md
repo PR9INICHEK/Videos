@@ -49,4 +49,5 @@
 5. [How to insert troops with the helicopter](https://www.youtube.com/shorts/DHvSpOwM_U0)
 6. [Arma Reforger Conflict: HQ Commander Overview | Arma Platform](https://www.youtube.com/watch?v=3-W7Ksy4mQE)
 7. https://www.youtube.com/watch?v=XvqIq8qFR_s
-8. 
+8. [Как играть ? I Arma Reforger режим Conflict | Ramon Perez](https://www.youtube.com/watch?v=33wGRe24KZs)
+9. 
