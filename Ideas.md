@@ -29,7 +29,7 @@
     - https://www.youtube.com/shorts/lr5ir-yUW0Q
 22. Аналитика боёв с официальных серверов
 23. Про режим командира
-    - ссылка на видео
+    - https://www.youtube.com/watch?v=rZ_9pkJtVSs
 24. Как целится с РПГ-22
     - https://www.youtube.com/shorts/eyQ1xkX3RII
 25. 
