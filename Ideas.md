@@ -30,9 +30,12 @@
 22. Аналитика боёв с официальных серверов
 23. Про режим командира
     - https://www.youtube.com/watch?v=rZ_9pkJtVSs
+    - https://www.youtube.com/watch?v=jyJbmB1-8H4
 24. Как целится с РПГ-22
     - https://www.youtube.com/shorts/eyQ1xkX3RII
-25. 
+25. Вредные советы
+   - Брать машину и уезжать одному
+26. 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
