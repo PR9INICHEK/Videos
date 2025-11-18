@@ -35,7 +35,9 @@
     - https://www.youtube.com/shorts/eyQ1xkX3RII
 25. Вредные советы
    - Брать машину и уезжать одному
-26. 
+26. В формате историй
+   - https://youtube.com/shorts/qq37os_5NpE?si=uoEcNfRmIoTG2CBj
+27. 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
