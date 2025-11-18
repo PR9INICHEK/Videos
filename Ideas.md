@@ -34,9 +34,9 @@
 24. Как целится с РПГ-22
     - https://www.youtube.com/shorts/eyQ1xkX3RII
 25. Вредные советы
-   - Брать машину и уезжать одному
+    - Брать машину и уезжать одному
 26. В формате историй
-   - https://youtube.com/shorts/qq37os_5NpE?si=uoEcNfRmIoTG2CBj
+    - https://youtube.com/shorts/qq37os_5NpE?si=uoEcNfRmIoTG2CBj
 27. 
 
 ## Battlefield
