@@ -46,7 +46,8 @@
     - https://youtube.com/shorts/BCIkXaKd_bg?si=GZDlUazy8s5c-893
 30. Рассказать про этот лайфхак
     - https://www.youtube.com/watch?v=KMYgoFCe4js
-31. 
+31. 1.6 - Рассказать, что можно грабить караваны
+32. 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
