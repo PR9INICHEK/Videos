@@ -43,8 +43,10 @@
 Šárka 1203 - 270
 Можно её использовать в начале игры для доставки припасов, когда мало машин
 29. Про миномёты
-   - https://youtube.com/shorts/BCIkXaKd_bg?si=GZDlUazy8s5c-893
-30. 
+    - https://youtube.com/shorts/BCIkXaKd_bg?si=GZDlUazy8s5c-893
+30. Рассказать про этот лайфхак
+    - https://www.youtube.com/watch?v=KMYgoFCe4js
+31. 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
