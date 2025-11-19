@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=BZhLxFuxYWY
 3. Озвучивать голосом И использовать субтитры. Либо только субтитры
 4. Использовать hashtag #RoadToProfessional, чтобы подчёркивать, для чего видео
 5. Использовать мем - Отлично, работаем дальше
+6. https://www.youtube.com/watch?v=WrDEAmSb9OY - Для какого-нибудь видео по Арме
 
 
 ### Мысли
