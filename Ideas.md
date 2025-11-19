@@ -48,11 +48,6 @@
 1. Какие фишки были в прошлых частях
 2. Как работает UX
 
-
-# Стримы
-1. Показывать кол-во подписчиков в цели на день, как прогресс бар
-2. 
-
 ## Вдохновение
 1. https://www.youtube.com/watch?v=dEIylGbEJM0&ab_channel=KrAziGamer
 2. https://www.youtube.com/watch?v=Us6YG98niMA
