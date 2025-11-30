@@ -66,7 +66,10 @@
    - https://www.youtube.com/watch?v=8x3LRkeA-co
 38. Как воровать припасы
    - https://www.youtube.com/shorts/K8VZabSasFE
-39.  
+39. Как использовать руины
+   - https://www.youtube.com/shorts/DHAAfK4rMss
+40. 3s
+41. sf 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
