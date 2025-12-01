@@ -70,7 +70,9 @@
     - https://www.youtube.com/shorts/DHAAfK4rMss
 40. Боты доставляют припасы
     - https://www.youtube.com/shorts/x-A5Bgn27Rs
-41. sf 
+41. Позиции для укреплений
+    - https://www.youtube.com/shorts/UxCCrr799Tw
+42. 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
