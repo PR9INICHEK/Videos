@@ -68,7 +68,8 @@
    - https://www.youtube.com/shorts/K8VZabSasFE
 39. Как использовать руины
    - https://www.youtube.com/shorts/DHAAfK4rMss
-40. 3s
+40. Боты доставляют припасы
+   - https://www.youtube.com/shorts/x-A5Bgn27Rs
 41. sf 
 
 ## Battlefield
