@@ -63,13 +63,13 @@
 36. Сделать шортс для Люда, нам пиздец
     - в ТикТок
 37. Как летать на вертолёте
-   - https://www.youtube.com/watch?v=8x3LRkeA-co
+    - https://www.youtube.com/watch?v=8x3LRkeA-co
 38. Как воровать припасы
-   - https://www.youtube.com/shorts/K8VZabSasFE
+    - https://www.youtube.com/shorts/K8VZabSasFE
 39. Как использовать руины
-   - https://www.youtube.com/shorts/DHAAfK4rMss
+    - https://www.youtube.com/shorts/DHAAfK4rMss
 40. Боты доставляют припасы
-   - https://www.youtube.com/shorts/x-A5Bgn27Rs
+    - https://www.youtube.com/shorts/x-A5Bgn27Rs
 41. sf 
 
 ## Battlefield
