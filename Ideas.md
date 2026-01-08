@@ -75,7 +75,7 @@
 41. Позиции для укреплений
     - https://www.youtube.com/shorts/UxCCrr799Tw
 42. Про выстрелы к РПГ
-   - https://youtube.com/shorts/AmMObA6ztEI?si=TUticN8jXoY95B3q
+    - https://youtube.com/shorts/AmMObA6ztEI?si=TUticN8jXoY95B3q
 43. 
 
 ## Battlefield
