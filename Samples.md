@@ -13,7 +13,10 @@ https://www.youtube.com/hashtag/armareforger/shorts
 7. https://www.youtube.com/shorts/uAPDDa1GyDw
 8. https://youtube.com/shorts/Bfgs3CJMJWQ
    - Классный эффект замедления на доли секунды
-9. 
+9. https://x.com/Battlefield/status/2007482265098490127
+   - Как показывают интерфейс в правом нижнем углу
+10. 
+11. 
 
 
 
