@@ -1,5 +1,6 @@
 # Идеи для видео
 1. Что даёт Rally Point
+   - [The NEW Rally Point That Keeps Squads TOGETHER in Arma Reforger 1.6! | Sabre](https://www.youtube.com/watch?v=2d_ITrJfVok)
 2. [Что за режим Конфликт](https://github.com/PR9INICHEK/Videos/blob/main/Scenarios/Conflict/Main.md)
    - Как найти сервера с определённым режимом
 3. Как быстрее прокачиваться
