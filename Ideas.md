@@ -77,7 +77,9 @@
     - https://www.youtube.com/shorts/UxCCrr799Tw
 42. Про выстрелы к РПГ
     - https://youtube.com/shorts/AmMObA6ztEI?si=TUticN8jXoY95B3q
-43. 
+43. Гайд на снайпера
+    - [Гайд на снайпера Arma Reforger (Vanila) для новичков | NixAL](https://www.youtube.com/watch?v=kwDgccn9oBE)
+44. 
 
 ## Battlefield
 1. Какие фишки были в прошлых частях
